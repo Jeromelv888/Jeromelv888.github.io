@@ -9,8 +9,23 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>选择有时候比努力更重要</description>
-    <pubDate>Wed, 29 Jun 2022 05:09:14 GMT</pubDate>
+    <pubDate>Wed, 29 Jun 2022 10:48:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test</title>
+      <link>http://example.com/2022/06/29/test/</link>
+      <guid>http://example.com/2022/06/29/test/</guid>
+      <pubDate>Wed, 29 Jun 2022 10:46:35 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>http://example.com/2022/06/29/test/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
